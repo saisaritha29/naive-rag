@@ -1,0 +1,10 @@
+Artificial Intelligence (AI) is a field of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence.
+Machine Learning (ML) is a subset of Artificial Intelligence. It allows computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
+Deep Learning is a subset of Machine Learning that uses artificial neural networks with multiple layers. Deep learning is widely used in image recognition, speech recognition, natural language processing, and recommendation systems.
+Natural Language Processing (NLP) is a branch of AI that enables computers to understand, process, and generate human language. Applications of NLP include chatbots, language translation, sentiment analysis, text summarization, and question-answering systems.
+Generative AI refers to artificial intelligence systems that can create new content such as text, images, audio, video, and computer code. Large Language Models (LLMs) are a major type of Generative AI system designed to understand and generate human-like text.
+Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with Generative AI. In a RAG system, relevant information is retrieved from a knowledge base and provided to an LLM as context before generating an answer.
+
+A vector database stores numerical representations called embeddings. Embeddings represent the meaning of text or other data as vectors. Vector databases allow applications to find information that is semantically similar to a user's query.
+
+RAG systems are useful because they can provide answers based on private or specialized documents instead of relying only on the information learned during an LLM's training.
